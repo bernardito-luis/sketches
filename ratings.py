@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 players = [
-    ('Guybrush', 1000),
+    ('Guybrush', 1100),
     ('Elaine', 1700),
     ('Monkey', 800),
     ('LeChuck', 1400),
